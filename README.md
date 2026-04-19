@@ -10,7 +10,7 @@ C:\Users\Keror\Desktop\Chao-mei\
 
 ## 雲端備份
 
-本資料夾已與 GitHub 自動同步，任何檔案變動會每 30 分鐘自動推送到遠端 repository 作為備份。
+本資料夾已與 GitHub 自動同步，每次 commit 完成後即時推送到遠端 repository 作為備份。
 
 **GitHub Repo:** https://github.com/keroro1768/Chao-mei
 
@@ -19,7 +19,6 @@ C:\Users\Keror\Desktop\Chao-mei\
 ```
 Chao-mei/
 ├── README.md          # 本說明文件
-├── auto-push.sh       # 自動同步腳本（無需手動執行）
 └── [其他工作檔案]      # 各類工作文件、紀錄、資料
 ```
 
