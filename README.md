@@ -5,7 +5,7 @@
 所有 Chao-mei 相關的工作紀錄、文件、資料皆儲存於本資料夾：
 
 ```
-C:\Users\Keror\Desktop\Chao-mei\
+D:\aiworkspace\chao-mei\
 ```
 
 ## 雲端備份
